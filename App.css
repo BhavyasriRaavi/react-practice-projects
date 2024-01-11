@@ -1,0 +1,9 @@
+
+.home-container{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 20px;
+  list-style-type: none;
+}
